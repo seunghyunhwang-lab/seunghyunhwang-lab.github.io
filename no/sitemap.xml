@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seunghyunhwang-lab.github.io/no/categories/</loc>
+    <loc>http://localhost:1313/no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seunghyunhwang-lab.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seunghyunhwang-lab.github.io/fa/categories/"
+                href="http://localhost:1313/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://seunghyunhwang-lab.github.io/no/categories/"
+                href="http://localhost:1313/no/categories/"
                 />
   </url><url>
-    <loc>https://seunghyunhwang-lab.github.io/no/</loc>
+    <loc>http://localhost:1313/no/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seunghyunhwang-lab.github.io/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seunghyunhwang-lab.github.io/fa/"
+                href="http://localhost:1313/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://seunghyunhwang-lab.github.io/no/"
+                href="http://localhost:1313/no/"
                 />
   </url><url>
-    <loc>https://seunghyunhwang-lab.github.io/no/tags/</loc>
+    <loc>http://localhost:1313/no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://seunghyunhwang-lab.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://seunghyunhwang-lab.github.io/fa/tags/"
+                href="http://localhost:1313/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://seunghyunhwang-lab.github.io/no/tags/"
+                href="http://localhost:1313/no/tags/"
                 />
   </url>
 </urlset>

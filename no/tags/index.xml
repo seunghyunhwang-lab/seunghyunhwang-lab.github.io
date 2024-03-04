@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seunghyun Group Open Source – Tags</title>
-    <link>https://seunghyunhwang-lab.github.io/no/tags/</link>
+    <link>http://localhost:1313/no/tags/</link>
     <description>Recent content in Tags on Seunghyun Group Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/no/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/no/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       
