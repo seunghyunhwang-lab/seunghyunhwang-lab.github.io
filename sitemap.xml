@@ -2,19 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://seunghyunhwang-lab.github.io/ko/sitemap.xml</loc>
     
-      <lastmod>2024-03-04T17:37:17+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/fa/sitemap.xml</loc>
+      <lastmod>2024-03-05T10:44:21+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/no/sitemap.xml</loc>
+    <loc>https://seunghyunhwang-lab.github.io/en/sitemap.xml</loc>
     
   </sitemap>
   
