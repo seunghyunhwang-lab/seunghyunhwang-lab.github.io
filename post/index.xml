@@ -5,7 +5,7 @@
     <description>Recent content in Posts on Seunghyun Group Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 04 Mar 2024 17:37:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 18:16:09 +0900</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,65 @@
         
       
     
+    
+    <item>
+      <title>Post: Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Tue, 05 Mar 2024 18:16:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;h1-level-title&#34;&gt;H1 level title&lt;/h1&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;p&gt;This another paragraph with &lt;em&gt;emphasis&lt;/em&gt; and &lt;strong&gt;strong emphasis&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;h2-level-title&#34;&gt;H2 level title&lt;/h2&gt;
+&lt;h3 id=&#34;h3-level-title&#34;&gt;H3 level title&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/&#34;&gt;This is a hyperlink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I like lists because they are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fun&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;easy, and&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;fast.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lists can also be ordered:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First element&lt;/li&gt;
+&lt;li&gt;Second element&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;with an unordered sublist&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And you can add tables:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column 1&lt;/th&gt;
+&lt;th&gt;Column 2&lt;/th&gt;
+&lt;th&gt;Column 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;I&lt;/td&gt;
+&lt;td&gt;like&lt;/td&gt;
+&lt;td&gt;tables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;This&lt;/td&gt;
+&lt;td&gt;is&lt;/td&gt;
+&lt;td&gt;content&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>
