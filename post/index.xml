@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seunghyun Group Open Source – Posts</title>
-    <link>https://seunghyunhwang-lab.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Seunghyun Group Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 04 Mar 2024 17:37:17 +0900</lastBuildDate>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
       
