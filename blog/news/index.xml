@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SKT Open Source – News</title>
+    <title>Financial Open Source – News</title>
     <link>https://seunghyunhwang-lab.github.io/blog/news/</link>
-    <description>Recent content in News on SKT Open Source</description>
+    <description>Recent content in News on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/news/index.xml" rel="self" type="application/rss+xml" />
     

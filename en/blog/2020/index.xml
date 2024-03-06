@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SKT Open Source – OpenChain KWG News in 2020</title>
+    <title>Financial Open Source – OpenChain KWG News in 2020</title>
     <link>https://seunghyunhwang-lab.github.io/en/blog/2020/</link>
-    <description>Recent content in OpenChain KWG News in 2020 on SKT Open Source</description>
+    <description>Recent content in OpenChain KWG News in 2020 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://seunghyunhwang-lab.github.io/en/blog/2020/index.xml" rel="self" type="application/rss+xml" />
     

@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SKT Open Source – How to write a blog</title>
+    <title>Financial Open Source – How to write a blog</title>
     <link>https://seunghyunhwang-lab.github.io/en/blog/sample/</link>
-    <description>Recent content in How to write a blog on SKT Open Source</description>
+    <description>Recent content in How to write a blog on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://seunghyunhwang-lab.github.io/en/blog/sample/index.xml" rel="self" type="application/rss+xml" />
     
