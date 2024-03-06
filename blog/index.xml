@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – </title>
-    <link>https://seunghyunhwang-lab.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,15 +16,15 @@
     
     <item>
       <title>Blog: 프랑스 법원, 대형 통신사 Orange에게 GPL 위반으로 손해배상 판결</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/</link>
+      <link>http://localhost:1313/blog/2024/20240219__orange_lasso/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/</guid>
+      <guid>http://localhost:1313/blog/2024/20240219__orange_lasso/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/featured_lasso_hu2be1628cf2eec4d7efae0b7b34a4e256_61950_640x0_resize_catmullrom_3.png" width="640" height="142"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2024/20240219__orange_lasso/featured_lasso_hu2be1628cf2eec4d7efae0b7b34a4e256_61950_640x0_resize_catmullrom_3.png" width="640" height="142"/>]]>
         
         &lt;p&gt;안녕하세요.&lt;/p&gt;
 &lt;p&gt;오늘은 프랑스 법원이 GPL 위반으로 통신사인 Orange에게 손해배상을 판결한 사건에 대해 살펴보려 합니다. 이 사건은 두 가지 주요 측면에서 특별히 주목할 만한 점이 있어 보였습니다.&lt;/p&gt;
@@ -87,15 +87,15 @@
     
     <item>
       <title>Blog: 기업의 효과적인 오픈소스 관리 방안 (2) OpenChain Korea Work Group</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/</link>
+      <link>http://localhost:1313/blog/2023/20230403_openchain_kwg/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/</guid>
+      <guid>http://localhost:1313/blog/2023/20230403_openchain_kwg/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/featured_kwg_huf5217035a555feebe1e3786185241884_581219_640x0_resize_catmullrom_3.png" width="640" height="233"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2023/20230403_openchain_kwg/featured_kwg_huf5217035a555feebe1e3786185241884_581219_640x0_resize_catmullrom_3.png" width="640" height="233"/>]]>
         
         &lt;p&gt;이전 글에서는 기업의 효과적인 오픈소스 관리 방안으로 &lt;a href=&#34;https://devocean.sk.com/blog/techBoardDetail.do?ID=164676&#34;&gt;글로벌 협력을 위한 OpenChain Project&lt;/a&gt;를 소개했습니다. 이번에는 한국 기업이 오픈소스를 효과적으로 관리하기 위한 협업 커뮤니티인 &lt;a href=&#34;https://openchain-project.github.io/OpenChain-KWG/&#34;&gt;OpenChain Korea Work Group&lt;/a&gt;에 대해 소개하려고 합니다.&lt;/p&gt;
 &lt;h2 id=&#34;openchain-korea-work-group&#34;&gt;OpenChain Korea Work Group&lt;/h2&gt;
@@ -165,49 +165,49 @@
     
     <item>
       <title>Blog: 기업의 효과적인 오픈소스 관리 방안 (1) 글로벌 협력을 위한 OpenChain Project</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/</link>
+      <link>http://localhost:1313/blog/2023/20230327_openchain_project/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/</guid>
+      <guid>http://localhost:1313/blog/2023/20230327_openchain_project/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/featured_meeting_hubba6bb9c56471dcb0bb524b477f05d67_720074_640x0_resize_catmullrom_3.png" width="640" height="390"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2023/20230327_openchain_project/featured_meeting_hubba6bb9c56471dcb0bb524b477f05d67_720074_640x0_resize_catmullrom_3.png" width="640" height="390"/>]]>
         
         &lt;p&gt;기업이 개발하는 제품 소프트웨어의 93% 이상이 오픈소스를 사용한다고 할 정도로 현대 소프트웨어 개발에 오픈소스를 사용하는 건 거의 필수적입니다. 그런데, 사용하는 오픈소스의 53%는 라이선스 컴플라이언스 이슈가 있고, 81%는 보안 취약점을 갖고 있다는 &lt;a href=&#34;https://www.synopsys.com/blogs/software-security/open-source-trends-ossra-report/&#34;&gt;보고가 있습니다&lt;/a&gt;. 복잡한 현대 소프트웨어의 개발환경과 방대한 Software Supply Chain을 고려한다면, 기업이 오픈소스로 제품을 개발하면서 라이선스 컴플라이언스와 보안 취약점 리스크 최소화를 위한 오픈소스 관리 노력이 필요한데요, &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;Linux Foundation&lt;/a&gt;의 &lt;a href=&#34;openchainproject.org&#34;&gt;OpenChain Project&lt;/a&gt;는 이러한 노력을 커뮤니티 차원에서 여러 기업이 공유와 협업으로 함께 하기 위한 Project입니다.&lt;/p&gt;
 &lt;p&gt;2023년 3월 27일, OpenChain Project의 General Manager인 &lt;a href=&#34;https://github.com/shanecoughlan&#34;&gt;Shane Coughlan&lt;/a&gt;이 SK텔레콤을 방문하여 OpenChain Project의 주요 활동, 오픈소스 관련 국제 표준 및 글로벌 동향에 관해 설명하는 시간을 가졌습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이 자리에는 SK텔레콤 &lt;a href=&#34;https://sktelecom.github.io/about/osrb/&#34;&gt;OSRB&lt;/a&gt;와 SK그룹 오픈소스 협의체 멤버(SK플래닛, SK쉴더스, SK(주), Supex추구협의회 등)가 참여하여 다양한 의견을 나누었는데요,&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/featured_meeting.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/featured_meeting.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이날 Shane은 OpenChain Project에 대해 소개하고, 어떻게 글로벌 협력을 통해 Software Supply Chain에서의 오픈소스 관리 이슈를 공동으로 해결해 가는지 설명하였습니다. 이 글에서는 주요 내용을 소개하려고 합니다.&lt;/p&gt;
 &lt;h2 id=&#34;openchain-project-global-community&#34;&gt;OpenChain Project Global Community&lt;/h2&gt;
 &lt;p&gt;Software Supply Chain 이슈 관리를 위해 OpenChain Project를 통해 여러 글로벌 기업이 협력하고 있습니다. : &lt;a href=&#34;https://www.openchainproject.org/community&#34;&gt;https://www.openchainproject.org/community&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;platinum-members&#34;&gt;Platinum Members&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_2.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;community-structure&#34;&gt;Community Structure&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에는 &lt;a href=&#34;https://www.openchainproject.org/participate&#34;&gt;다수의 Work Group&lt;/a&gt;이 있으며, 각 Work Group에서는 오픈소스 관리를 위한 표준을 만들고 자동화 도구를 함께 개발하고 있습니다. 또한 국가별로 Work Group이 결성되어 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_3.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;openchain-standard&#34;&gt;OpenChain Standard&lt;/h2&gt;
 &lt;h3 id=&#34;isoiec-52302020-isoiec-dis-18974&#34;&gt;ISO/IEC 5230:2020, ISO/IEC DIS 18974&lt;/h3&gt;
 &lt;p&gt;가장 가시적인 결과는 오픈소스 관리를 위한 최초의 국제 표준을 개발한 것입니다. 2020년 12월, &lt;a href=&#34;https://www.iso.org/standard/81039.html&#34;&gt;ISO/IEC 5230&lt;/a&gt;이 오픈소스 컴플라이언스를 위한 유일한 국제 표준으로 등록되었습니다. &lt;a href=&#34;https://www.iso.org/standard/86450.html&#34;&gt;ISO/IEC DIS 18974&lt;/a&gt;는 오픈소스 보안 보증 컴플라이언스를 위한 사실상의 표준이며, 2023년 하반기에 ISO 표준으로 공식 등록될 예정입니다.&lt;/p&gt;
 &lt;p&gt;이들 표준은 기업이 오픈소스를 관리하는데 꼭 필요한 핵심 요구사항을 정의하고 있습니다. 기업은 이 표준의 요구사항을 준수함으로 Software Supply Chain 내에서 오픈소스 관리가 이뤄지고 있음을 투명하게 나타낼 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_4.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;self-certification&#34;&gt;Self-Certification&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에서는 &lt;a href=&#34;https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification&#34;&gt;Self-Certification&lt;/a&gt;을 위한 Checklist도 제공하는데요. 기업은 Checklist 항목을 하나하나 준수해 가면서 기업의 오픈소스 관리 수준을 높일 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_5.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;adoption-of-openchain-isoiec-52302020&#34;&gt;Adoption of OpenChain ISO/IEC 5230:2020&lt;/h3&gt;
 &lt;p&gt;Checklist의 모든 항목을 준수하는 기업이라면, ISO/IEC 5230 준수 기업으로 선언할 수 있게 됩니다. ISO/IEC 5230을 채택하였다고 선언한 기업 리스트는 다음과 같습니다. LG전자, 카카오, 삼성전자, 네이버, SK텔레콤, NCSOFT, 현대자동차그룹 등 여러 국내 기업도 볼 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_6.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;other-interesting-items&#34;&gt;Other Interesting Items&lt;/h2&gt;
 &lt;h3 id=&#34;online-webinar&#34;&gt;Online Webinar&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에서는 오픈소스 관리에 대한 &lt;a href=&#34;https://www.openchainproject.org/webinars&#34;&gt;온라인 웨비나&lt;/a&gt;를 계속하고 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_7.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;training-courses&#34;&gt;Training Courses&lt;/h3&gt;
 &lt;p&gt;오픈소스 라이선스 컴플라이언스를 위한 &lt;a href=&#34;https://www.openchainproject.org/resources&#34;&gt;Free Training Course&lt;/a&gt;가 제공되고 있으며, 이수 시 Badge도 취득할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_8.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이러한 Training Course는 여러 기업이 소속 직원 혹은 Supplier에게 이수를 요구하는 등 다양하게 활용되기도 합니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_9.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;update-on-china-and-japan&#34;&gt;Update on China and Japan&lt;/h2&gt;
 &lt;h3 id=&#34;china&#34;&gt;China&lt;/h3&gt;
 &lt;p&gt;중국에서도 OpenChain Project와의 협력이 활발히 일어나고 있습니다. 특히 &lt;a href=&#34;http://www.caict.ac.cn/english/&#34;&gt;CAICT&lt;/a&gt;와 &lt;a href=&#34;https://www.cc.cesi.cn/english.aspx&#34;&gt;CESI&lt;/a&gt;와 같은 중국 정부 기관과도 협력 방안을 논의하고 있습니다.&lt;/p&gt;
@@ -226,7 +226,7 @@
 &lt;h2 id=&#34;글을-마치며&#34;&gt;글을 마치며&lt;/h2&gt;
 &lt;p&gt;OpenChain Project는 기업의 오픈소스 관리 영역도 오픈소스의 공유와 협업 방식을 적용하여 모두 함께 적은 비용과 리소스로 높은 수준의 리스크 관리 practice를 달성하기 위한 커뮤니티입니다. 이러한 취지에 공감하는 기업들이 모여 있는 곳이 &lt;a href=&#34;https://openchain-project.github.io/OpenChain-KWG/&#34;&gt;OpenChain Korea Work Group&lt;/a&gt;입니다. OpenChain Korea Work Group에는 100명에 가까운 기업의 오픈소스 담당자들이 메일링리스트에 가입하여 활동하고 있습니다. 마침 코로나 이후 3년만에 오프라인 모임이 3월 28일에 있었습니다. 다음 글에서 이에 대해 자세히 다루겠습니다.&lt;/p&gt;
 &lt;p&gt;Shane과의 미팅 세션 이후에는 SK텔레콤 Tech HR팀의 후원으로 맛있는 점심을 즐겼습니다. (&lt;a href=&#34;https://kr.linkedin.com/in/ksangki&#34;&gt;상기&lt;/a&gt;님 감사합니다~ ^^ )&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_10.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;감사합니다.&lt;/p&gt;
 
       </description>
@@ -234,15 +234,15 @@
     
     <item>
       <title>Blog: Akka는 더 이상 오픈소스가 아닙니다.</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/</link>
+      <link>http://localhost:1313/blog/2022/20220930_akka_license_change/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/</guid>
+      <guid>http://localhost:1313/blog/2022/20220930_akka_license_change/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/featured_akka_hu515c71a488a6766b364d7f25ac0e66ab_48953_640x0_resize_catmullrom_3.png" width="640" height="235"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2022/20220930_akka_license_change/featured_akka_hu515c71a488a6766b364d7f25ac0e66ab_48953_640x0_resize_catmullrom_3.png" width="640" height="235"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;오픈소스로 시작한 소프트웨어 기업이 라이선스 정책을 변경하는 사례가 증가하고 있는데요, 그동안 Apache-2.0으로 오픈소스 라이선스 정책을 유지해오던 미국의 Lightbend사도 2022년 9월, Akka의 라이선스를 BUSL-1.1 (Business Source License)로 변경한다고 발표하였습니다.&lt;br&gt;
@@ -329,10 +329,10 @@ Business Source License가 무엇인지, Lightbend가 Akka의 라이선스를 BS
     
     <item>
       <title>Blog: SFC vs. Vizio 판결 겉핥기</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220614_sfc_vizio/</link>
+      <link>http://localhost:1313/blog/2022/20220614_sfc_vizio/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220614_sfc_vizio/</guid>
+      <guid>http://localhost:1313/blog/2022/20220614_sfc_vizio/</guid>
       <description>
         
         
@@ -623,15 +623,15 @@ People who aren’t a party to a GPL agreement, but who would benefit from the
     
     <item>
       <title>Blog: 이너소스 도입을 위한 과제와 효과</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/</link>
+      <link>http://localhost:1313/blog/2022/20220403_innersource/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/</guid>
+      <guid>http://localhost:1313/blog/2022/20220403_innersource/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>]]>
         
         &lt;p&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
 &lt;p&gt;이너소스(Inner Source)는 오픈소스 개발방법론을 사내에 도입하여 조직간 공유와 협업을 극대화하고, 빠른 개발 속도와 투명한 커뮤니케이션, 코드 품질 향상 등의 효과를 기대하기 위한 방법입니다.&lt;/p&gt;
@@ -739,15 +739,15 @@ People who aren’t a party to a GPL agreement, but who would benefit from the
     
     <item>
       <title>Blog: 상용 AI 서비스에 공개 Dataset을 사용해도 되나요?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/</link>
+      <link>http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/</guid>
+      <guid>http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>]]>
         
         &lt;p&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
 &lt;p&gt;AI는 사용하지 않는 기업이 없을 정도로 현대 비즈니스에 중요한 기술이 되었습니다. AI 서비스를 만들기 위해서는 많은 양의 data가 필요한데요, 공개 Dataset&lt;sub&gt;publicly available datasets&lt;/sub&gt;도 널리 사용되고 있습니다. 다만 공개 Dataset이라고 하더라도 저작권이 있기 때문에 이를 상용 AI 서비스에 사용하려면 저작권 침해 등 법적 리스크를 최소화하기 위해 라이선스 측면의 확인이 필요합니다.&lt;/p&gt;
@@ -1155,10 +1155,10 @@ People who aren’t a party to a GPL agreement, but who would benefit from the
     
     <item>
       <title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20211220-saas_compliance/</link>
+      <link>http://localhost:1313/blog/2021/20211220-saas_compliance/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20211220-saas_compliance/</guid>
+      <guid>http://localhost:1313/blog/2021/20211220-saas_compliance/</guid>
       <description>
         
         
@@ -1279,15 +1279,15 @@ The source code for a work means the preferred form of the work for making modif
     
     <item>
       <title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/</link>
+      <link>http://localhost:1313/blog/2021/20211115-virtualapp_gpl/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/</guid>
+      <guid>http://localhost:1313/blog/2021/20211115-virtualapp_gpl/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;&lt;i&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
@@ -1339,7 +1339,7 @@ The source code for a work means the preferred form of the work for making modif
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 210px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png&#34; width=&#34;200&#34; height=&#34;103&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png&#34; width=&#34;200&#34; height=&#34;103&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1360,7 +1360,7 @@ The source code for a work means the preferred form of the work for making modif
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;532&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;532&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1412,7 +1412,7 @@ VirtualApp의 코드를 상업적 이익, 내부 사용을 위해 자신의 코�
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;488&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;488&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1446,7 +1446,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;/ol&gt;
 &lt;h2 id=&#34;법원-판결&#34;&gt;법원 판결&lt;/h2&gt;
 &lt;p&gt;2021년 4월, 법원은 이 사건이 컴퓨터 소프트웨어의 저작권 침해에 관한 분쟁이고 오픈소스와 관련된 문제라고 &lt;a href=&#34;https://www.iphouse.cn/cases/detail/woznd0v9pek4jx35ovdj8y5gxrm371q2.html?keyword=GPL&#34;&gt;판결&lt;/a&gt;하며 다음과 같은 쟁점에 대한 의견을 제시하였습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;china_judegement&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/china_judegement.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;china_judegement&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/china_judegement.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;쟁점-1-gpl-30의-법적-효력-여부&#34;&gt;쟁점 1. GPL-3.0의 법적 효력 여부&lt;/h3&gt;
 &lt;p&gt;법원은 GPL-3.0이 계약적 성격을 띠고 라이선스 제공자와 사용자 간의 저작권 계약으로 판단할 수 있으며 중국 &amp;lsquo;계약법&amp;rsquo;의 조정 범위에 해당한다고 판단하였습니다. 더불어 GPL-3.0 위반에 대한 불법 행위 책임을 아래와 같이 설명하였습니다.&lt;/p&gt;
 &lt;h4 id=&#34;gpl-30-위반에-대한-불법-행위-책임&#34;&gt;GPL-3.0 위반에 대한 불법 행위 책임&lt;/h4&gt;
@@ -1552,15 +1552,15 @@ http://www.appchina.com/app/com.dianxinos.dxhome
     
     <item>
       <title>Blog: SKT, 오픈소스 컴플라이언스 분야 ISO 국제인증 획득</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20210909-sktiso/</link>
+      <link>http://localhost:1313/blog/news/20210909-sktiso/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20210909-sktiso/</guid>
+      <guid>http://localhost:1313/blog/news/20210909-sktiso/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_640x0_resize_q75_catmullrom.jpeg" width="640" height="414"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_640x0_resize_q75_catmullrom.jpeg" width="640" height="414"/>]]>
         
         &lt;p&gt;SK텔레콤이 ‘오픈소스’ 활용을 위한 체계적 관리(컴플라이언스) 시스템을 갖췄음을 국제적으로 인정받았다.&lt;/p&gt;
 &lt;p&gt;SK텔레콤(대표이사 박정호, &lt;a href=&#34;https://www.sktelecom.com&#34;&gt;www.sktelecom.com&lt;/a&gt;)은 국제표준화기구(ISO, Interna-tional Organization for Standardization)로부터 오픈소스 컴플라이언스 관련 표준인증(ISO/IEC 5230)을 획득했다고 9일 밝혔다.&lt;/p&gt;
@@ -1572,7 +1572,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 910px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;900&#34; height=&#34;582&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;900&#34; height=&#34;582&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1588,15 +1588,15 @@ http://www.appchina.com/app/com.dianxinos.dxhome
     
     <item>
       <title>Blog: GPLv2도 설치정보를 요구한다고?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/</link>
+      <link>http://localhost:1313/blog/2021/20210728-gplv2installationinformation/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/</guid>
+      <guid>http://localhost:1313/blog/2021/20210728-gplv2installationinformation/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;&lt;i&gt;안녕하세요.&lt;/p&gt;
@@ -1633,7 +1633,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 310px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png&#34; width=&#34;300&#34; height=&#34;149&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png&#34; width=&#34;300&#34; height=&#34;149&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1658,7 +1658,7 @@ solely because modification has been made.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg&#34; width=&#34;600&#34; height=&#34;493&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg&#34; width=&#34;600&#34; height=&#34;493&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1679,7 +1679,7 @@ solely because modification has been made.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 460px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;392&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;392&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1701,7 +1701,7 @@ https://blog.codinghorror.com/tivoization-and-the-gpl/
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 310px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg&#34; width=&#34;300&#34; height=&#34;333&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg&#34; width=&#34;300&#34; height=&#34;333&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1726,7 +1726,7 @@ https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 460px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;338&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;338&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1800,7 +1800,7 @@ compilation and installation of the executable.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;422&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;422&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1835,7 +1835,7 @@ Installation Information.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;591&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;591&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2045,15 +2045,15 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
     
     <item>
       <title>Blog: SK텔레콤, 개발자와 소통하는 커뮤니티 ‘DEVOCEAN’ 론칭</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20210614-devocean/</link>
+      <link>http://localhost:1313/blog/news/20210614-devocean/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20210614-devocean/</guid>
+      <guid>http://localhost:1313/blog/news/20210614-devocean/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_640x0_resize_q75_catmullrom.jpeg" width="640" height="398"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_640x0_resize_q75_catmullrom.jpeg" width="640" height="398"/>]]>
         
         &lt;p&gt;SK텔레콤이 스타트업·대학 등 외부 개발자들과 소통하는 오픈 커뮤니티를 론칭하며 SK의 ICT 역량을 적극 공유에 나선다.&lt;/p&gt;
 &lt;p&gt;‘&lt;a href=&#34;https://devocean.sk.com/&#34;&gt;데보션&lt;/a&gt;’은 개발자들을 위한 영감의 바다(Developer’s Ocean)라는 뜻으로, 개발자들이 지식과 경허을 공유하는 커뮤니티를 ‘바다’에 비유했다.&lt;/p&gt;
@@ -2065,7 +2065,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 810px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;800&#34; height=&#34;498&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;800&#34; height=&#34;498&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2082,15 +2082,15 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
     
     <item>
       <title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/</link>
+      <link>http://localhost:1313/blog/2021/20210504-dockerfiles/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/</guid>
+      <guid>http://localhost:1313/blog/2021/20210504-dockerfiles/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요!&lt;/p&gt;
@@ -2139,7 +2139,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;304&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;304&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2158,7 +2158,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;441&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;441&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2177,7 +2177,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg&#34; width=&#34;768&#34; height=&#34;576&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg&#34; width=&#34;768&#34; height=&#34;576&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2367,15 +2367,15 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
     
     <item>
       <title>Blog: OSPO란?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/</link>
+      <link>http://localhost:1313/blog/2021/20210418-ospo-definition/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/</guid>
+      <guid>http://localhost:1313/blog/2021/20210418-ospo-definition/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>]]>
         
         
 
@@ -2399,7 +2399,7 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 328px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png&#34; width=&#34;318&#34; height=&#34;159&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png&#34; width=&#34;318&#34; height=&#34;159&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2539,15 +2539,15 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
     
     <item>
       <title>Blog: SRT Alliance Welcomes SKT to the SRT Open Source Video Streaming Project</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20210330-srtalliance/</link>
+      <link>http://localhost:1313/blog/news/20210330-srtalliance/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20210330-srtalliance/</guid>
+      <guid>http://localhost:1313/blog/news/20210330-srtalliance/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_640x0_resize_q75_catmullrom.jpg" width="640" height="360"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_640x0_resize_q75_catmullrom.jpg" width="640" height="360"/>]]>
         
         
 
@@ -2557,7 +2557,7 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_600x300_fill_q75_catmullrom_smart1.jpg&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_600x300_fill_q75_catmullrom_smart1.jpg&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2588,15 +2588,15 @@ Image credit: SRT Alliance
     
     <item>
       <title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/</link>
+      <link>http://localhost:1313/blog/2021/20210328-elasticlicense/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/</guid>
+      <guid>http://localhost:1313/blog/2021/20210328-elasticlicense/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요.&lt;/p&gt;
@@ -2757,15 +2757,15 @@ It describes a software model where software:
     
     <item>
       <title>Blog: SK텔레콤, 초저지연 영상전송기술 오픈소스 공개</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20210308-hwangsaeul/</link>
+      <link>http://localhost:1313/blog/news/20210308-hwangsaeul/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20210308-hwangsaeul/</guid>
+      <guid>http://localhost:1313/blog/news/20210308-hwangsaeul/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20210308-hwangsaeul/featured-structure_hu987d9e4157edc27f079c66674ea0d98e_27305_640x0_resize_q75_catmullrom.jpeg" width="640" height="413"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20210308-hwangsaeul/featured-structure_hu987d9e4157edc27f079c66674ea0d98e_27305_640x0_resize_q75_catmullrom.jpeg" width="640" height="413"/>]]>
         
         
 
@@ -2775,7 +2775,7 @@ It describes a software model where software:
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20210308-hwangsaeul/20210308121349363500_hu044a3df7b7f2f6ffe8eb07807ebc4f44_61511_600x300_fill_q75_catmullrom_smart1.jpeg&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20210308-hwangsaeul/20210308121349363500_hu044a3df7b7f2f6ffe8eb07807ebc4f44_61511_600x300_fill_q75_catmullrom_smart1.jpeg&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2794,15 +2794,15 @@ It describes a software model where software:
     
     <item>
       <title>Blog: The 2nd Page of H8l</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/</link>
+      <link>http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/</guid>
+      <guid>http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>]]>
         
         &lt;h1 id=&#34;the-2nd-page-of-hwangsaeul-project&#34;&gt;The 2nd page of Hwangsaeul project&lt;/h1&gt;
 &lt;p&gt;It&amp;rsquo;s been almost a year and half since Jakub posted the &lt;a href=&#34;https://www.collabora.com/news-and-blog/news-and-events/low-latency-streaming-of-security-feeds-with-srt-and-gstreamer.html&#34;&gt;installation document&lt;/a&gt; of Hwangsaeul (a.k.a H8L) project. The project members are still rush to develop the project for the various use cases. Although the H8L project is originally designed to support the massive deployment of video surveillance cameras which enable SRT transmission, we found that there is much more potential when we switch the domain to UAV(Unmanned Areial Viehicle) and UGV(Unmanned Ground Vehicle). Therefore, we had to change the overall shape of H8L to optimize for the new targets.&lt;/p&gt;
@@ -2927,15 +2927,15 @@ authentication=true
     
     <item>
       <title>Blog: SK텔레콤, 요약 잘하는 AI모델 공개…&#39;자연어이해&#39; 기술 강화</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20201210-summaryai/</link>
+      <link>http://localhost:1313/blog/news/20201210-summaryai/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20201210-summaryai/</guid>
+      <guid>http://localhost:1313/blog/news/20201210-summaryai/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_640x0_resize_q75_catmullrom.jpeg" width="640" height="334"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_640x0_resize_q75_catmullrom.jpeg" width="640" height="334"/>]]>
         
         
 
@@ -2945,7 +2945,7 @@ authentication=true
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 650px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;640&#34; height=&#34;334&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;640&#34; height=&#34;334&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -2964,15 +2964,15 @@ authentication=true
     
     <item>
       <title>Blog: 기업 고객의 원활한 클라우드 활용 돕는다. SKT, &#39;TACO&#39; 출시</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20201105-taco/</link>
+      <link>http://localhost:1313/blog/news/20201105-taco/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20201105-taco/</guid>
+      <guid>http://localhost:1313/blog/news/20201105-taco/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_640x0_resize_q75_catmullrom.jpeg" width="640" height="447"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_640x0_resize_q75_catmullrom.jpeg" width="640" height="447"/>]]>
         
         
 
@@ -2982,7 +2982,7 @@ authentication=true
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;419&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;419&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -3001,15 +3001,15 @@ authentication=true
     
     <item>
       <title>Blog: SK텔레콤은 &#39;언어신동 AI’에 어떻게 한국어를 가르쳤을까</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20201012-languageai/</link>
+      <link>http://localhost:1313/blog/news/20201012-languageai/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20201012-languageai/</guid>
+      <guid>http://localhost:1313/blog/news/20201012-languageai/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_640x0_resize_q75_catmullrom.jpeg" width="640" height="358"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_640x0_resize_q75_catmullrom.jpeg" width="640" height="358"/>]]>
         
         &lt;p&gt;SK텔레콤 &amp;lsquo;AI랭귀지테크랩스(ALT Labs)&amp;rsquo; 연구원들은 한국어를 잘 다루는 AI &amp;lsquo;코버트(KoBERT)&amp;lsquo;와 &amp;lsquo;KoGPT2&amp;rsquo;를 잇따라 개발했다.&lt;/p&gt;
 &lt;p&gt;KoBERT의 원형은 구글이 지난 2018년 10월 공개한 버트(BERT)이며, KoGPT2의 원형은 오픈AI가 지난해 공개한 GPT-2다. BERT는 영어 읽기, GPT-2는 영어 쓰기에 특출난 &amp;lsquo;언어 신동&amp;rsquo; AI로 유명세를 얻었다. SK텔레콤은 이들에게 한국어를 열심히 가르친 결과, 내부 업무에 활용해 성과를 얻었고, 지난해 10월 KoBERT를, 올해 2월엔 KoGPT2를 각각 오픈소스로 공개했다.&lt;/p&gt;
@@ -3021,7 +3021,7 @@ authentication=true
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 650px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;640&#34; height=&#34;358&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_900x600_fit_q75_catmullrom.jpeg&#34; width=&#34;640&#34; height=&#34;358&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -3038,10 +3038,10 @@ KoBERT와 KoGPT2 개발에 참여한 SK텔레콤 AI랭귀지테크랩스(ALT Lab
     
     <item>
       <title>Blog: 블로그 작성 방법</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/sample/how-to/</link>
+      <link>http://localhost:1313/blog/sample/how-to/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/sample/how-to/</guid>
+      <guid>http://localhost:1313/blog/sample/how-to/</guid>
       <description>
         
         
@@ -3060,15 +3060,15 @@ KoBERT와 KoGPT2 개발에 참여한 SK텔레콤 AI랭귀지테크랩스(ALT Lab
     
     <item>
       <title>Blog: 샘플 블로그입니다.</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/sample/sample-post/</link>
+      <link>http://localhost:1313/blog/sample/sample-post/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/sample/sample-post/</guid>
+      <guid>http://localhost:1313/blog/sample/sample-post/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>]]>
         
         &lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;. &lt;a href=&#34;https://github.com&#34;&gt;Links&lt;/a&gt; should be blue with no underlines (unless hovered over).&lt;/p&gt;
 &lt;p&gt;There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p&gt;
@@ -3362,7 +3362,7 @@ This is a warning with a title!
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -3386,7 +3386,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -3403,15 +3403,15 @@ Fetch and scale an image in the upcoming Hugo 0.43.
     
     <item>
       <title>Blog: 소스 코드 내 저작권 표시 방법</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/</link>
+      <link>http://localhost:1313/blog/2020/20200812-copyright-license/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/</guid>
+      <guid>http://localhost:1313/blog/2020/20200812-copyright-license/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요.&lt;/p&gt;
@@ -3425,7 +3425,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 &lt;li&gt;무엇을 하면 되는지만 간단히 알고 싶어하는 개발자를 위해&lt;/li&gt;
 &lt;li&gt;단지 모범 사례 뿐만 아니라 그 이면에 있는 이유에 대해서도 이해하고자 하는 FOSS 컴플라이언스 담당자와 법률가를 위해&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;시간이 극단적으로 없다면, &lt;a href=&#34;https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/#tldr&#34;&gt;TL;DR&lt;/a&gt;에서 최소한의 가이드를 확인하라. 2분 정도의 시간이 있다면 아래의 &lt;a href=&#34;https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/#how-to-write-a-good-copyright-statement-and-license-notice&#34;&gt;actual HowTo a bit lower below&lt;/a&gt;를 읽어라.&lt;/p&gt;
+&lt;p&gt;시간이 극단적으로 없다면, &lt;a href=&#34;http://localhost:1313/blog/2020/20200812-copyright-license/#tldr&#34;&gt;TL;DR&lt;/a&gt;에서 최소한의 가이드를 확인하라. 2분 정도의 시간이 있다면 아래의 &lt;a href=&#34;http://localhost:1313/blog/2020/20200812-copyright-license/#how-to-write-a-good-copyright-statement-and-license-notice&#34;&gt;actual HowTo a bit lower below&lt;/a&gt;를 읽어라.&lt;/p&gt;
 &lt;p&gt;물론, 20분 정도의 시간이 있다면, 처음부터 끝까지 한번 읽어보는 것이 제일 좋다.&lt;/p&gt;
 &lt;h1 id=&#34;tldr&#34;&gt;TL;DR&lt;/h1&gt;
 &lt;p&gt;아래 포맷의 저작권 및 라이선스 표시 당신이 작성한 모든 소스 코드 파일에 추가하라.&lt;/p&gt;
@@ -3628,10 +3628,10 @@ EU에서의 한 예로, 슬로베니아의 ZASP §175. (1)은 독점적 저작�
     
     <item>
       <title>Blog: SKT-AWS, 한국어 자연어처리기술 &#39;KoGPT-2&#39; 오픈소스로 공개</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/news/20200428-kogpt2/</link>
+      <link>http://localhost:1313/blog/news/20200428-kogpt2/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/news/20200428-kogpt2/</guid>
+      <guid>http://localhost:1313/blog/news/20200428-kogpt2/</guid>
       <description>
         
         

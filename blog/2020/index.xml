@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – OpenChain KWG News in 2020</title>
-    <link>https://seunghyunhwang-lab.github.io/blog/2020/</link>
+    <link>http://localhost:1313/blog/2020/</link>
     <description>Recent content in OpenChain KWG News in 2020 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/2020/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blog/2020/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,15 +16,15 @@
     
     <item>
       <title>Blog: 소스 코드 내 저작권 표시 방법</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/</link>
+      <link>http://localhost:1313/blog/2020/20200812-copyright-license/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/</guid>
+      <guid>http://localhost:1313/blog/2020/20200812-copyright-license/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요.&lt;/p&gt;
@@ -38,7 +38,7 @@
 &lt;li&gt;무엇을 하면 되는지만 간단히 알고 싶어하는 개발자를 위해&lt;/li&gt;
 &lt;li&gt;단지 모범 사례 뿐만 아니라 그 이면에 있는 이유에 대해서도 이해하고자 하는 FOSS 컴플라이언스 담당자와 법률가를 위해&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;시간이 극단적으로 없다면, &lt;a href=&#34;https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/#tldr&#34;&gt;TL;DR&lt;/a&gt;에서 최소한의 가이드를 확인하라. 2분 정도의 시간이 있다면 아래의 &lt;a href=&#34;https://seunghyunhwang-lab.github.io/blog/2020/20200812-copyright-license/#how-to-write-a-good-copyright-statement-and-license-notice&#34;&gt;actual HowTo a bit lower below&lt;/a&gt;를 읽어라.&lt;/p&gt;
+&lt;p&gt;시간이 극단적으로 없다면, &lt;a href=&#34;http://localhost:1313/blog/2020/20200812-copyright-license/#tldr&#34;&gt;TL;DR&lt;/a&gt;에서 최소한의 가이드를 확인하라. 2분 정도의 시간이 있다면 아래의 &lt;a href=&#34;http://localhost:1313/blog/2020/20200812-copyright-license/#how-to-write-a-good-copyright-statement-and-license-notice&#34;&gt;actual HowTo a bit lower below&lt;/a&gt;를 읽어라.&lt;/p&gt;
 &lt;p&gt;물론, 20분 정도의 시간이 있다면, 처음부터 끝까지 한번 읽어보는 것이 제일 좋다.&lt;/p&gt;
 &lt;h1 id=&#34;tldr&#34;&gt;TL;DR&lt;/h1&gt;
 &lt;p&gt;아래 포맷의 저작권 및 라이선스 표시 당신이 작성한 모든 소스 코드 파일에 추가하라.&lt;/p&gt;
