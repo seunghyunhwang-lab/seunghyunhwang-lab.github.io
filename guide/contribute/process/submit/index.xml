@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 기여 제출 세부 절차</title>
-    <link>http://localhost:1313/guide/contribute/process/submit/</link>
+    <link>https://seunghyunhwang-lab.github.io/guide/contribute/process/submit/</link>
     <description>Recent content in 기여 제출 세부 절차 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/guide/contribute/process/submit/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/guide/contribute/process/submit/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 2022</title>
-    <link>http://localhost:1313/blog/2022/</link>
+    <link>https://seunghyunhwang-lab.github.io/blog/2022/</link>
     <description>Recent content in 2022 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/blog/2022/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/2022/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,15 +16,15 @@
     
     <item>
       <title>Blog: Akka는 더 이상 오픈소스가 아닙니다.</title>
-      <link>http://localhost:1313/blog/2022/20220930_akka_license_change/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022/20220930_akka_license_change/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2022/20220930_akka_license_change/featured_akka_hu515c71a488a6766b364d7f25ac0e66ab_48953_640x0_resize_catmullrom_3.png" width="640" height="235"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220930_akka_license_change/featured_akka_hu515c71a488a6766b364d7f25ac0e66ab_48953_640x0_resize_catmullrom_3.png" width="640" height="235"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;오픈소스로 시작한 소프트웨어 기업이 라이선스 정책을 변경하는 사례가 증가하고 있는데요, 그동안 Apache-2.0으로 오픈소스 라이선스 정책을 유지해오던 미국의 Lightbend사도 2022년 9월, Akka의 라이선스를 BUSL-1.1 (Business Source License)로 변경한다고 발표하였습니다.&lt;br&gt;
@@ -111,10 +111,10 @@ Business Source License가 무엇인지, Lightbend가 Akka의 라이선스를 BS
     
     <item>
       <title>Blog: SFC vs. Vizio 판결 겉핥기</title>
-      <link>http://localhost:1313/blog/2022/20220614_sfc_vizio/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220614_sfc_vizio/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022/20220614_sfc_vizio/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220614_sfc_vizio/</guid>
       <description>
         
         
@@ -405,15 +405,15 @@ People who aren’t a party to a GPL agreement, but who would benefit from the
     
     <item>
       <title>Blog: 이너소스 도입을 위한 과제와 효과</title>
-      <link>http://localhost:1313/blog/2022/20220403_innersource/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022/20220403_innersource/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>]]>
         
         &lt;p&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
 &lt;p&gt;이너소스(Inner Source)는 오픈소스 개발방법론을 사내에 도입하여 조직간 공유와 협업을 극대화하고, 빠른 개발 속도와 투명한 커뮤니케이션, 코드 품질 향상 등의 효과를 기대하기 위한 방법입니다.&lt;/p&gt;
@@ -521,15 +521,15 @@ People who aren’t a party to a GPL agreement, but who would benefit from the
     
     <item>
       <title>Blog: 상용 AI 서비스에 공개 Dataset을 사용해도 되나요?</title>
-      <link>http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>]]>
         
         &lt;p&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
 &lt;p&gt;AI는 사용하지 않는 기업이 없을 정도로 현대 비즈니스에 중요한 기술이 되었습니다. AI 서비스를 만들기 위해서는 많은 양의 data가 필요한데요, 공개 Dataset&lt;sub&gt;publicly available datasets&lt;/sub&gt;도 널리 사용되고 있습니다. 다만 공개 Dataset이라고 하더라도 저작권이 있기 때문에 이를 상용 AI 서비스에 사용하려면 저작권 침해 등 법적 리스크를 최소화하기 위해 라이선스 측면의 확인이 필요합니다.&lt;/p&gt;

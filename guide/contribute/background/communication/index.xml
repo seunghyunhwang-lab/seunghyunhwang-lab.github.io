@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 커뮤니케이션 방법</title>
-    <link>http://localhost:1313/guide/contribute/background/communication/</link>
+    <link>https://seunghyunhwang-lab.github.io/guide/contribute/background/communication/</link>
     <description>Recent content in 커뮤니케이션 방법 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/guide/contribute/background/communication/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/guide/contribute/background/communication/index.xml" rel="self" type="application/rss+xml" />
     
     
       

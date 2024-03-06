@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – T Phone</title>
-    <link>http://localhost:1313/en/compliance/t_phone/</link>
+    <link>https://seunghyunhwang-lab.github.io/en/compliance/t_phone/</link>
     <description>Recent content in T Phone on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/en/compliance/t_phone/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/en/compliance/t_phone/index.xml" rel="self" type="application/rss+xml" />
     
     
       

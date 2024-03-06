@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 오픈소스 사용하기</title>
-    <link>http://localhost:1313/en/guide/use/</link>
+    <link>https://seunghyunhwang-lab.github.io/en/guide/use/</link>
     <description>Recent content in 오픈소스 사용하기 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/en/guide/use/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/en/guide/use/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Guide: 오픈소스 선택 시 고려사항</title>
-      <link>http://localhost:1313/en/guide/use/choose/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/use/choose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/use/choose/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/use/choose/</guid>
       <description>
         
         
@@ -40,10 +40,10 @@
     
     <item>
       <title>Guide: 오픈소스 라이선스란?</title>
-      <link>http://localhost:1313/en/guide/use/license/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/use/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/use/license/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/use/license/</guid>
       <description>
         
         
@@ -164,7 +164,7 @@ at no charge to all third parties under the terms of this License.
 &lt;p&gt;&lt;a href=&#34;https://opensource.org/&#34;&gt;OSI (Open Source Initiative)&lt;/a&gt;는 오픈소스에 해당하는 라이선스의 최소한의 기준을 정의 (&lt;a href=&#34;https://opensource.org/osd&#34;&gt;Open Source Definition, OSD&lt;/a&gt;) 해놓고 이 정의에 따라 오픈소스 라이선스를 인증한다. 인증된 오픈소스 라이선스는 80여개 이다. 각각의 라이선스가 요구하는 의무사항이 다르다.&lt;/p&gt;
 &lt;p&gt;각 라이선스 별 의무사항과 SK텔레콤의 제한 정책은 다음 페이지에서 설명한다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/&#34;&gt;오픈소스 라이선스 별 의무 사항&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/&#34;&gt;오픈소스 라이선스 별 의무 사항&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/div&gt;
@@ -175,10 +175,10 @@ at no charge to all third parties under the terms of this License.
     
     <item>
       <title>Guide: 오픈소스 라이선스 확인하기</title>
-      <link>http://localhost:1313/en/guide/use/check/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/use/check/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/use/check/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/use/check/</guid>
       <description>
         
         
@@ -205,10 +205,10 @@ at no charge to all third parties under the terms of this License.
     
     <item>
       <title>Guide: 오픈소스 라이선스 별 의무사항</title>
-      <link>http://localhost:1313/en/guide/use/obligation/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/use/obligation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/use/obligation/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/use/obligation/</guid>
       <description>
         
         
@@ -257,7 +257,7 @@ at no charge to all third parties under the terms of this License.
 &lt;h2 id=&#34;수월하게-사용-가능한-라이선스&#34;&gt;수월하게 사용 가능한 라이선스&lt;/h2&gt;
 &lt;p&gt;Permissive License라고 분류할 수 있는 아래의 오픈소스 라이선스는 고지 의무를 요구한다. 오픈소스 라이선스의 고지 의무는 비교적 수월하게 준수할 수 있다. &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;이와 같이 고지 의무를 요구하는 Permissive 라이선스 하의 오픈소스를 포함하는 소프트웨어를 배포할 경우, &amp;ldquo;저작권 표시&amp;rdquo;, &amp;ldquo;라이선스 고지&amp;rdquo; 등의 의무를 준수해야 한다. (참고 : &lt;a href=&#34;http://localhost:1313/en/guide/use/license/#저작권-표시-및-라이선스-고지&#34;&gt;저작권 표시 및 라이선스 고지&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;이와 같이 고지 의무를 요구하는 Permissive 라이선스 하의 오픈소스를 포함하는 소프트웨어를 배포할 경우, &amp;ldquo;저작권 표시&amp;rdquo;, &amp;ldquo;라이선스 고지&amp;rdquo; 등의 의무를 준수해야 한다. (참고 : &lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/license/#저작권-표시-및-라이선스-고지&#34;&gt;저작권 표시 및 라이선스 고지&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;SK텔레콤 오픈소스 컴플라이언스 프로세스를 통해 오픈소스 고지문을 발행하고 소프트웨어 배포 시 이를 동봉하여 고지 의무를 준수할 수 있다. &lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
@@ -297,7 +297,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0&#34;&gt;&lt;code&gt;Apache License 2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/Apache-2.0.html&#34;&gt;&lt;code&gt;Apache-2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/apache-2.0/&#34;&gt;Apache-2.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/apache-2.0/&#34;&gt;Apache-2.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.boost.org/users/license.html&#34;&gt;&lt;code&gt;Boost Software License 1.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -307,12 +307,12 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://opensource.org/licenses/bsd-license.php&#34;&gt;&lt;code&gt;BSD 2-Clause &amp;quot;Simplified&amp;quot; License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/BSD-2-Clause.html&#34;&gt;&lt;code&gt;BSD-2-Clause&lt;/code&gt; &lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/bsd-2-clause/&#34;&gt;BSD-2-Clause 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/bsd-2-clause/&#34;&gt;BSD-2-Clause 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://opensource.org/licenses/BSD-3-Clause&#34;&gt;&lt;code&gt;BSD 3-Clause &amp;quot;New&amp;quot; or &amp;quot;Revised&amp;quot; License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/BSD-3-Clause.html&#34;&gt;&lt;code&gt;BSD-3-Clause&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/bsd-3-clause/&#34;&gt;BSD-3-Clause 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/bsd-3-clause/&#34;&gt;BSD-3-Clause 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://opensource.org/licenses/BSDplusPatent&#34;&gt;&lt;code&gt;BSD-2-Clause Plus Patent License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -362,7 +362,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/mit-license.php&#34;&gt;&lt;code&gt;MIT License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/MIT.html&#34;&gt;&lt;code&gt;MIT&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/mit/&#34;&gt;MIT 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/mit/&#34;&gt;MIT 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3&#34;&gt;&lt;code&gt;X11 License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -467,12 +467,12 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html&#34;&gt;&lt;code&gt;GNU General Public License v2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/GPL-2.0-only.html&#34;&gt;&lt;code&gt;GPL-2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/gpl-2.0/&#34;&gt;GPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/gpl-2.0/&#34;&gt;GPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0-standalone.html&#34;&gt;&lt;code&gt;GNU General Public License v3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/GPL-3.0-only.html&#34;&gt;&lt;code&gt;GPL-3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/gpl-3.0/&#34;&gt;GPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/gpl-3.0/&#34;&gt;GPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/legalcode&#34;&gt;&lt;code&gt;Creative Commons Attribution Share Alike 4.0 International&lt;/code&gt; &lt;/a&gt;&lt;/td&gt;
@@ -537,17 +537,17 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html&#34;&gt;&lt;code&gt;GNU Lesser General Public License v2.1&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/LGPL-2.1-only.html&#34;&gt;&lt;code&gt;LGPL-2.1&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/lgpl-2.1/&#34;&gt;LGPL-2.1 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/lgpl-2.1/&#34;&gt;LGPL-2.1 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/lgpl-3.0-standalone.html&#34;&gt;&lt;code&gt;GNU Lesser General Public License v3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/LGPL-3.0-only.html&#34;&gt;&lt;code&gt;LGPL-3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/lgpl-3.0/&#34;&gt;LGPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/lgpl-3.0/&#34;&gt;LGPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/cddl1.php&#34;&gt;&lt;code&gt;Common Development and Distribution License 1.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/CDDL-1.0.html&#34;&gt;&lt;code&gt;CDDL-1.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/cddl-1.0/&#34;&gt;CDDL-1.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/cddl-1.0/&#34;&gt;CDDL-1.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/cpl1.0.php&#34;&gt;&lt;code&gt;Common Public License 1.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -562,7 +562,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://opensource.org/licenses/EPL-2.0&#34;&gt;&lt;code&gt;Eclipse Public License 2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/EPL-2.0.html&#34;&gt;&lt;code&gt;EPL-2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/epl-2.0/&#34;&gt;EPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/epl-2.0/&#34;&gt;EPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/ibmpl.php&#34;&gt;&lt;code&gt;IBM Public License v1.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -577,7 +577,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/MPL-2.0&#34;&gt;&lt;code&gt;Mozilla Public License 2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/MPL-2.0.html&#34;&gt;&lt;code&gt;MPL-2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/mpl-2.0/&#34;&gt;MPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/mpl-2.0/&#34;&gt;MPL-2.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://opensource.org/licenses/apsl-2.0.php&#34;&gt;&lt;code&gt;Apple Public Source License 2.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -636,7 +636,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl.txt&#34;&gt;&lt;code&gt;GNU Affero General Public License v3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/AGPL-3.0-only.html&#34;&gt;&lt;code&gt;AGPL-3.0&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/agpl-3.0/&#34;&gt;AGPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/agpl-3.0/&#34;&gt;AGPL-3.0 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.mongodb.com/licensing/server-side-public-license&#34;&gt;&lt;code&gt;Server Side Public License, v 1&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
@@ -663,7 +663,7 @@ at no charge to all third parties under the terms of this License.
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://directory.fsf.org/wiki/License:BSD_4Clause&#34;&gt;&lt;code&gt;BSD 4-Clause &amp;quot;Original&amp;quot; or &amp;quot;Old&amp;quot; License&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://spdx.org/licenses/BSD-4-Clause.html&#34;&gt;&lt;code&gt;BSD-4-Clause&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/en/guide/use/obligation/bsd-4-clause/&#34;&gt;BSD-4-Clause 가이드&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://seunghyunhwang-lab.github.io/en/guide/use/obligation/bsd-4-clause/&#34;&gt;BSD-4-Clause 가이드&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

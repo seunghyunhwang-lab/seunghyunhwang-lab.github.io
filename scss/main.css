@@ -12611,11 +12611,11 @@ header {
     padding: 0; }
   .td-navbar .navbar-logo svg {
     display: inline-block;
-    height: 44px;
-    max-width: 130px; }
+    height: 60px;
+    max-width: 180px; }
     @media (max-width: 991.98px) {
       .td-navbar .navbar-logo svg {
-        width: 80px;
+        width: 100px;
         height: auto; } }
   .td-navbar .nav-item {
     position: relative; }

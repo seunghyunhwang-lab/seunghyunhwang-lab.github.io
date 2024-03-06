@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 오픈소스 라이선스 별 의무사항</title>
-    <link>http://localhost:1313/guide/use/obligation/</link>
+    <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/</link>
     <description>Recent content in 오픈소스 라이선스 별 의무사항 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/guide/use/obligation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/guide/use/obligation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Guide: AGPL-3.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/agpl-3.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/agpl-3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/agpl-3.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/agpl-3.0/</guid>
       <description>
         
         
@@ -224,10 +224,10 @@ along with this program. If not, see &amp;lt;http://www.gnu.org/licenses/&amp;gt
     
     <item>
       <title>Guide: Apache-2.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/apache-2.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/apache-2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/apache-2.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/apache-2.0/</guid>
       <description>
         
         
@@ -308,10 +308,10 @@ limitations under the License.
     
     <item>
       <title>Guide: BSD-2-Clause 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/bsd-2-clause/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-2-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/bsd-2-clause/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-2-clause/</guid>
       <description>
         
         
@@ -390,10 +390,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
     <item>
       <title>Guide: BSD-3-Clause 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/bsd-3-clause/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-3-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/bsd-3-clause/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-3-clause/</guid>
       <description>
         
         
@@ -475,10 +475,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
     <item>
       <title>Guide: BSD-4-Clause 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/bsd-4-clause/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-4-clause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/bsd-4-clause/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/bsd-4-clause/</guid>
       <description>
         
         
@@ -582,10 +582,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
     <item>
       <title>Guide: CDDL-1.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/cddl-1.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/cddl-1.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/cddl-1.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/cddl-1.0/</guid>
       <description>
         
         
@@ -679,10 +679,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
     <item>
       <title>Guide: EPL-2.0가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/epl-2.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/epl-2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/epl-2.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/epl-2.0/</guid>
       <description>
         
         
@@ -783,10 +783,10 @@ http://www.eclipse.org/org/documents/edl-v10.php.
     
     <item>
       <title>Guide: GPL-2.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/gpl-2.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/gpl-2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/gpl-2.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/gpl-2.0/</guid>
       <description>
         
         
@@ -958,10 +958,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
     
     <item>
       <title>Guide: GPL-3.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/gpl-3.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/gpl-3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/gpl-3.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/gpl-3.0/</guid>
       <description>
         
         
@@ -1151,10 +1151,10 @@ along with this program. If not, see &amp;lt;http://www.gnu.org/licenses/&amp;gt
     
     <item>
       <title>Guide: LGPL-2.1 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/lgpl-2.1/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/lgpl-2.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/lgpl-2.1/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/lgpl-2.1/</guid>
       <description>
         
         
@@ -1327,10 +1327,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
     
     <item>
       <title>Guide: LGPL-3.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/lgpl-3.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/lgpl-3.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/lgpl-3.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/lgpl-3.0/</guid>
       <description>
         
         
@@ -1517,10 +1517,10 @@ along with this program. If not, see &amp;lt;http://www.gnu.org/licenses/&amp;gt
     
     <item>
       <title>Guide: MIT 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/mit/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/mit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/mit/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/mit/</guid>
       <description>
         
         
@@ -1597,10 +1597,10 @@ OTHER DEALINGS IN THE SOFTWARE.
     
     <item>
       <title>Guide: MPL-2.0 가이드</title>
-      <link>http://localhost:1313/guide/use/obligation/mpl-2.0/</link>
+      <link>https://seunghyunhwang-lab.github.io/guide/use/obligation/mpl-2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guide/use/obligation/mpl-2.0/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/guide/use/obligation/mpl-2.0/</guid>
       <description>
         
         

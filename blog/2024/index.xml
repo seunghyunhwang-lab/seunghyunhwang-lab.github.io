@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 2024</title>
-    <link>http://localhost:1313/blog/2024/</link>
+    <link>https://seunghyunhwang-lab.github.io/blog/2024/</link>
     <description>Recent content in 2024 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/blog/2024/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/2024/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,15 +16,15 @@
     
     <item>
       <title>Blog: 프랑스 법원, 대형 통신사 Orange에게 GPL 위반으로 손해배상 판결</title>
-      <link>http://localhost:1313/blog/2024/20240219__orange_lasso/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2024/20240219__orange_lasso/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2024/20240219__orange_lasso/featured_lasso_hu2be1628cf2eec4d7efae0b7b34a4e256_61950_640x0_resize_catmullrom_3.png" width="640" height="142"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2024/20240219__orange_lasso/featured_lasso_hu2be1628cf2eec4d7efae0b7b34a4e256_61950_640x0_resize_catmullrom_3.png" width="640" height="142"/>]]>
         
         &lt;p&gt;안녕하세요.&lt;/p&gt;
 &lt;p&gt;오늘은 프랑스 법원이 GPL 위반으로 통신사인 Orange에게 손해배상을 판결한 사건에 대해 살펴보려 합니다. 이 사건은 두 가지 주요 측면에서 특별히 주목할 만한 점이 있어 보였습니다.&lt;/p&gt;

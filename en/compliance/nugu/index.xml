@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – NUGU</title>
-    <link>http://localhost:1313/en/compliance/nugu/</link>
+    <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/</link>
     <description>Recent content in NUGU on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/en/compliance/nugu/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/en/compliance/nugu/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Compliance: AlbertAI</title>
-      <link>http://localhost:1313/en/compliance/nugu/albertai/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/albertai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/albertai/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/albertai/</guid>
       <description>
         
         
@@ -64,10 +64,10 @@
     
     <item>
       <title>Compliance: NU110</title>
-      <link>http://localhost:1313/en/compliance/nugu/nu110/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nu110/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu110/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>Compliance: NU300</title>
-      <link>http://localhost:1313/en/compliance/nugu/nu300/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu300/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nu300/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu300/</guid>
       <description>
         
         
@@ -143,10 +143,10 @@
     
     <item>
       <title>Compliance: NU310</title>
-      <link>http://localhost:1313/en/compliance/nugu/nu310/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu310/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nu310/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nu310/</guid>
       <description>
         
         
@@ -225,10 +225,10 @@
     
     <item>
       <title>Compliance: NUGU auto</title>
-      <link>http://localhost:1313/en/compliance/nugu/nugu_auto/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_auto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nugu_auto/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_auto/</guid>
       <description>
         
         
@@ -266,10 +266,10 @@
     
     <item>
       <title>Compliance: NUGU Mobile</title>
-      <link>http://localhost:1313/en/compliance/nugu/nugu_mobile/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nugu_mobile/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_mobile/</guid>
       <description>
         
         
@@ -314,10 +314,10 @@
     
     <item>
       <title>Compliance: NUGU Smarthome</title>
-      <link>http://localhost:1313/en/compliance/nugu/nugu_smarthome/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_smarthome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nugu_smarthome/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_smarthome/</guid>
       <description>
         
         
@@ -362,10 +362,10 @@
     
     <item>
       <title>Compliance: NUGU Updater</title>
-      <link>http://localhost:1313/en/compliance/nugu/nugu_updater/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_updater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/compliance/nugu/nugu_updater/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/compliance/nugu/nugu_updater/</guid>
       <description>
         
         

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 오픈소스 기여 배경 정보</title>
-    <link>http://localhost:1313/en/guide/contribute/background/</link>
+    <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/</link>
     <description>Recent content in 오픈소스 기여 배경 정보 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/en/guide/contribute/background/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/en/guide/contribute/background/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Guide: 오픈소스 기여의 유형</title>
-      <link>http://localhost:1313/en/guide/contribute/background/type/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/type/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/type/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@
     
     <item>
       <title>Guide: 오픈소스 프로젝트 멤버십</title>
-      <link>http://localhost:1313/en/guide/contribute/background/membership/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/membership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/membership/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/membership/</guid>
       <description>
         
         
@@ -104,10 +104,10 @@
     
     <item>
       <title>Guide: 오픈소스 프로젝트 주요 문서</title>
-      <link>http://localhost:1313/en/guide/contribute/background/document/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/document/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/document/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/document/</guid>
       <description>
         
         
@@ -129,10 +129,10 @@
     
     <item>
       <title>Guide: 좋은 기여자가 되기 위해</title>
-      <link>http://localhost:1313/en/guide/contribute/background/good-contributor/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/good-contributor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/good-contributor/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/good-contributor/</guid>
       <description>
         
         
@@ -162,10 +162,10 @@
     
     <item>
       <title>Guide: 기여하기에 좋은 프로젝트 확인 방법</title>
-      <link>http://localhost:1313/en/guide/contribute/background/good-project/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/good-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/good-project/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/good-project/</guid>
       <description>
         
         
@@ -227,10 +227,10 @@
     
     <item>
       <title>Guide: 커뮤니케이션 방법</title>
-      <link>http://localhost:1313/en/guide/contribute/background/communication/</link>
+      <link>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/guide/contribute/background/communication/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/en/guide/contribute/background/communication/</guid>
       <description>
         
         

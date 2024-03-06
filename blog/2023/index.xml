@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 2023</title>
-    <link>http://localhost:1313/blog/2023/</link>
+    <link>https://seunghyunhwang-lab.github.io/blog/2023/</link>
     <description>Recent content in 2023 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/blog/2023/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/2023/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,15 +16,15 @@
     
     <item>
       <title>Blog: 기업의 효과적인 오픈소스 관리 방안 (2) OpenChain Korea Work Group</title>
-      <link>http://localhost:1313/blog/2023/20230403_openchain_kwg/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2023/20230403_openchain_kwg/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2023/20230403_openchain_kwg/featured_kwg_huf5217035a555feebe1e3786185241884_581219_640x0_resize_catmullrom_3.png" width="640" height="233"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2023/20230403_openchain_kwg/featured_kwg_huf5217035a555feebe1e3786185241884_581219_640x0_resize_catmullrom_3.png" width="640" height="233"/>]]>
         
         &lt;p&gt;이전 글에서는 기업의 효과적인 오픈소스 관리 방안으로 &lt;a href=&#34;https://devocean.sk.com/blog/techBoardDetail.do?ID=164676&#34;&gt;글로벌 협력을 위한 OpenChain Project&lt;/a&gt;를 소개했습니다. 이번에는 한국 기업이 오픈소스를 효과적으로 관리하기 위한 협업 커뮤니티인 &lt;a href=&#34;https://openchain-project.github.io/OpenChain-KWG/&#34;&gt;OpenChain Korea Work Group&lt;/a&gt;에 대해 소개하려고 합니다.&lt;/p&gt;
 &lt;h2 id=&#34;openchain-korea-work-group&#34;&gt;OpenChain Korea Work Group&lt;/h2&gt;
@@ -94,49 +94,49 @@
     
     <item>
       <title>Blog: 기업의 효과적인 오픈소스 관리 방안 (1) 글로벌 협력을 위한 OpenChain Project</title>
-      <link>http://localhost:1313/blog/2023/20230327_openchain_project/</link>
+      <link>https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2023/20230327_openchain_project/</guid>
+      <guid>https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="http://localhost:1313/blog/2023/20230327_openchain_project/featured_meeting_hubba6bb9c56471dcb0bb524b477f05d67_720074_640x0_resize_catmullrom_3.png" width="640" height="390"/>]]>
+        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/featured_meeting_hubba6bb9c56471dcb0bb524b477f05d67_720074_640x0_resize_catmullrom_3.png" width="640" height="390"/>]]>
         
         &lt;p&gt;기업이 개발하는 제품 소프트웨어의 93% 이상이 오픈소스를 사용한다고 할 정도로 현대 소프트웨어 개발에 오픈소스를 사용하는 건 거의 필수적입니다. 그런데, 사용하는 오픈소스의 53%는 라이선스 컴플라이언스 이슈가 있고, 81%는 보안 취약점을 갖고 있다는 &lt;a href=&#34;https://www.synopsys.com/blogs/software-security/open-source-trends-ossra-report/&#34;&gt;보고가 있습니다&lt;/a&gt;. 복잡한 현대 소프트웨어의 개발환경과 방대한 Software Supply Chain을 고려한다면, 기업이 오픈소스로 제품을 개발하면서 라이선스 컴플라이언스와 보안 취약점 리스크 최소화를 위한 오픈소스 관리 노력이 필요한데요, &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;Linux Foundation&lt;/a&gt;의 &lt;a href=&#34;openchainproject.org&#34;&gt;OpenChain Project&lt;/a&gt;는 이러한 노력을 커뮤니티 차원에서 여러 기업이 공유와 협업으로 함께 하기 위한 Project입니다.&lt;/p&gt;
 &lt;p&gt;2023년 3월 27일, OpenChain Project의 General Manager인 &lt;a href=&#34;https://github.com/shanecoughlan&#34;&gt;Shane Coughlan&lt;/a&gt;이 SK텔레콤을 방문하여 OpenChain Project의 주요 활동, 오픈소스 관련 국제 표준 및 글로벌 동향에 관해 설명하는 시간을 가졌습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이 자리에는 SK텔레콤 &lt;a href=&#34;https://sktelecom.github.io/about/osrb/&#34;&gt;OSRB&lt;/a&gt;와 SK그룹 오픈소스 협의체 멤버(SK플래닛, SK쉴더스, SK(주), Supex추구협의회 등)가 참여하여 다양한 의견을 나누었는데요,&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/featured_meeting.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/featured_meeting.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이날 Shane은 OpenChain Project에 대해 소개하고, 어떻게 글로벌 협력을 통해 Software Supply Chain에서의 오픈소스 관리 이슈를 공동으로 해결해 가는지 설명하였습니다. 이 글에서는 주요 내용을 소개하려고 합니다.&lt;/p&gt;
 &lt;h2 id=&#34;openchain-project-global-community&#34;&gt;OpenChain Project Global Community&lt;/h2&gt;
 &lt;p&gt;Software Supply Chain 이슈 관리를 위해 OpenChain Project를 통해 여러 글로벌 기업이 협력하고 있습니다. : &lt;a href=&#34;https://www.openchainproject.org/community&#34;&gt;https://www.openchainproject.org/community&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;platinum-members&#34;&gt;Platinum Members&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_2.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;community-structure&#34;&gt;Community Structure&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에는 &lt;a href=&#34;https://www.openchainproject.org/participate&#34;&gt;다수의 Work Group&lt;/a&gt;이 있으며, 각 Work Group에서는 오픈소스 관리를 위한 표준을 만들고 자동화 도구를 함께 개발하고 있습니다. 또한 국가별로 Work Group이 결성되어 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_3.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;openchain-standard&#34;&gt;OpenChain Standard&lt;/h2&gt;
 &lt;h3 id=&#34;isoiec-52302020-isoiec-dis-18974&#34;&gt;ISO/IEC 5230:2020, ISO/IEC DIS 18974&lt;/h3&gt;
 &lt;p&gt;가장 가시적인 결과는 오픈소스 관리를 위한 최초의 국제 표준을 개발한 것입니다. 2020년 12월, &lt;a href=&#34;https://www.iso.org/standard/81039.html&#34;&gt;ISO/IEC 5230&lt;/a&gt;이 오픈소스 컴플라이언스를 위한 유일한 국제 표준으로 등록되었습니다. &lt;a href=&#34;https://www.iso.org/standard/86450.html&#34;&gt;ISO/IEC DIS 18974&lt;/a&gt;는 오픈소스 보안 보증 컴플라이언스를 위한 사실상의 표준이며, 2023년 하반기에 ISO 표준으로 공식 등록될 예정입니다.&lt;/p&gt;
 &lt;p&gt;이들 표준은 기업이 오픈소스를 관리하는데 꼭 필요한 핵심 요구사항을 정의하고 있습니다. 기업은 이 표준의 요구사항을 준수함으로 Software Supply Chain 내에서 오픈소스 관리가 이뤄지고 있음을 투명하게 나타낼 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_4.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;self-certification&#34;&gt;Self-Certification&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에서는 &lt;a href=&#34;https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification&#34;&gt;Self-Certification&lt;/a&gt;을 위한 Checklist도 제공하는데요. 기업은 Checklist 항목을 하나하나 준수해 가면서 기업의 오픈소스 관리 수준을 높일 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_5.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;adoption-of-openchain-isoiec-52302020&#34;&gt;Adoption of OpenChain ISO/IEC 5230:2020&lt;/h3&gt;
 &lt;p&gt;Checklist의 모든 항목을 준수하는 기업이라면, ISO/IEC 5230 준수 기업으로 선언할 수 있게 됩니다. ISO/IEC 5230을 채택하였다고 선언한 기업 리스트는 다음과 같습니다. LG전자, 카카오, 삼성전자, 네이버, SK텔레콤, NCSOFT, 현대자동차그룹 등 여러 국내 기업도 볼 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_6.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;other-interesting-items&#34;&gt;Other Interesting Items&lt;/h2&gt;
 &lt;h3 id=&#34;online-webinar&#34;&gt;Online Webinar&lt;/h3&gt;
 &lt;p&gt;OpenChain Project에서는 오픈소스 관리에 대한 &lt;a href=&#34;https://www.openchainproject.org/webinars&#34;&gt;온라인 웨비나&lt;/a&gt;를 계속하고 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_7.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;training-courses&#34;&gt;Training Courses&lt;/h3&gt;
 &lt;p&gt;오픈소스 라이선스 컴플라이언스를 위한 &lt;a href=&#34;https://www.openchainproject.org/resources&#34;&gt;Free Training Course&lt;/a&gt;가 제공되고 있으며, 이수 시 Badge도 취득할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_8.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;이러한 Training Course는 여러 기업이 소속 직원 혹은 Supplier에게 이수를 요구하는 등 다양하게 활용되기도 합니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_9.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;update-on-china-and-japan&#34;&gt;Update on China and Japan&lt;/h2&gt;
 &lt;h3 id=&#34;china&#34;&gt;China&lt;/h3&gt;
 &lt;p&gt;중국에서도 OpenChain Project와의 협력이 활발히 일어나고 있습니다. 특히 &lt;a href=&#34;http://www.caict.ac.cn/english/&#34;&gt;CAICT&lt;/a&gt;와 &lt;a href=&#34;https://www.cc.cesi.cn/english.aspx&#34;&gt;CESI&lt;/a&gt;와 같은 중국 정부 기관과도 협력 방안을 논의하고 있습니다.&lt;/p&gt;
@@ -155,7 +155,7 @@
 &lt;h2 id=&#34;글을-마치며&#34;&gt;글을 마치며&lt;/h2&gt;
 &lt;p&gt;OpenChain Project는 기업의 오픈소스 관리 영역도 오픈소스의 공유와 협업 방식을 적용하여 모두 함께 적은 비용과 리소스로 높은 수준의 리스크 관리 practice를 달성하기 위한 커뮤니티입니다. 이러한 취지에 공감하는 기업들이 모여 있는 곳이 &lt;a href=&#34;https://openchain-project.github.io/OpenChain-KWG/&#34;&gt;OpenChain Korea Work Group&lt;/a&gt;입니다. OpenChain Korea Work Group에는 100명에 가까운 기업의 오픈소스 담당자들이 메일링리스트에 가입하여 활동하고 있습니다. 마침 코로나 이후 3년만에 오프라인 모임이 3월 28일에 있었습니다. 다음 글에서 이에 대해 자세히 다루겠습니다.&lt;/p&gt;
 &lt;p&gt;Shane과의 미팅 세션 이후에는 SK텔레콤 Tech HR팀의 후원으로 맛있는 점심을 즐겼습니다. (&lt;a href=&#34;https://kr.linkedin.com/in/ksangki&#34;&gt;상기&lt;/a&gt;님 감사합니다~ ^^ )&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;http://localhost:1313/blog/2023/20230327_openchain_project/Untitled_10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Untitled&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2023/20230327_openchain_project/Untitled_10.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;감사합니다.&lt;/p&gt;
 
       </description>
