@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – BSD-2-Clause 가이드</title>
-    <link>https://seunghyunhwang-lab.github.io/en/guide/use/obligation/bsd-2-clause/</link>
+    <link>http://localhost:1313/en/guide/use/obligation/bsd-2-clause/</link>
     <description>Recent content in BSD-2-Clause 가이드 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/en/guide/use/obligation/bsd-2-clause/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/en/guide/use/obligation/bsd-2-clause/index.xml" rel="self" type="application/rss+xml" />
     
     
       

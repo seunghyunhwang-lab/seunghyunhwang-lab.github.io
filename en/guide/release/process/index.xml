@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – SK텔레콤 오픈소스 공개 절차</title>
-    <link>https://seunghyunhwang-lab.github.io/en/guide/release/process/</link>
+    <link>http://localhost:1313/en/guide/release/process/</link>
     <description>Recent content in SK텔레콤 오픈소스 공개 절차 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/en/guide/release/process/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/en/guide/release/process/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Guide: 오픈소스 프로젝트 이름 결정</title>
-      <link>https://seunghyunhwang-lab.github.io/en/guide/release/process/name/</link>
+      <link>http://localhost:1313/en/guide/release/process/name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/en/guide/release/process/name/</guid>
+      <guid>http://localhost:1313/en/guide/release/process/name/</guid>
       <description>
         
         
@@ -54,10 +54,10 @@
     
     <item>
       <title>Guide: 파일 내 저작권 및 라이선스 표시</title>
-      <link>https://seunghyunhwang-lab.github.io/en/guide/release/process/copyright/</link>
+      <link>http://localhost:1313/en/guide/release/process/copyright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/en/guide/release/process/copyright/</guid>
+      <guid>http://localhost:1313/en/guide/release/process/copyright/</guid>
       <description>
         
         
