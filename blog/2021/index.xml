@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Open Source – 2021</title>
-    <link>https://seunghyunhwang-lab.github.io/blog/2021/</link>
+    <link>http://localhost:1313/blog/2021/</link>
     <description>Recent content in 2021 on Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="https://seunghyunhwang-lab.github.io/blog/2021/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blog/2021/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20211220-saas_compliance/</link>
+      <link>http://localhost:1313/blog/2021/20211220-saas_compliance/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20211220-saas_compliance/</guid>
+      <guid>http://localhost:1313/blog/2021/20211220-saas_compliance/</guid>
       <description>
         
         
@@ -140,15 +140,15 @@ The source code for a work means the preferred form of the work for making modif
     
     <item>
       <title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/</link>
+      <link>http://localhost:1313/blog/2021/20211115-virtualapp_gpl/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/</guid>
+      <guid>http://localhost:1313/blog/2021/20211115-virtualapp_gpl/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;&lt;i&gt;안녕하세요, 장학성입니다.&lt;/p&gt;
@@ -200,7 +200,7 @@ The source code for a work means the preferred form of the work for making modif
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 210px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png&#34; width=&#34;200&#34; height=&#34;103&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png&#34; width=&#34;200&#34; height=&#34;103&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -221,7 +221,7 @@ The source code for a work means the preferred form of the work for making modif
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;532&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;532&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -273,7 +273,7 @@ VirtualApp의 코드를 상업적 이익, 내부 사용을 위해 자신의 코�
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;488&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png&#34; width=&#34;600&#34; height=&#34;488&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -307,7 +307,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;/ol&gt;
 &lt;h2 id=&#34;법원-판결&#34;&gt;법원 판결&lt;/h2&gt;
 &lt;p&gt;2021년 4월, 법원은 이 사건이 컴퓨터 소프트웨어의 저작권 침해에 관한 분쟁이고 오픈소스와 관련된 문제라고 &lt;a href=&#34;https://www.iphouse.cn/cases/detail/woznd0v9pek4jx35ovdj8y5gxrm371q2.html?keyword=GPL&#34;&gt;판결&lt;/a&gt;하며 다음과 같은 쟁점에 대한 의견을 제시하였습니다.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;china_judegement&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20211115-virtualapp_gpl/china_judegement.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;china_judegement&#34; src=&#34;http://localhost:1313/blog/2021/20211115-virtualapp_gpl/china_judegement.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;쟁점-1-gpl-30의-법적-효력-여부&#34;&gt;쟁점 1. GPL-3.0의 법적 효력 여부&lt;/h3&gt;
 &lt;p&gt;법원은 GPL-3.0이 계약적 성격을 띠고 라이선스 제공자와 사용자 간의 저작권 계약으로 판단할 수 있으며 중국 &amp;lsquo;계약법&amp;rsquo;의 조정 범위에 해당한다고 판단하였습니다. 더불어 GPL-3.0 위반에 대한 불법 행위 책임을 아래와 같이 설명하였습니다.&lt;/p&gt;
 &lt;h4 id=&#34;gpl-30-위반에-대한-불법-행위-책임&#34;&gt;GPL-3.0 위반에 대한 불법 행위 책임&lt;/h4&gt;
@@ -413,15 +413,15 @@ http://www.appchina.com/app/com.dianxinos.dxhome
     
     <item>
       <title>Blog: GPLv2도 설치정보를 요구한다고?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/</link>
+      <link>http://localhost:1313/blog/2021/20210728-gplv2installationinformation/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/</guid>
+      <guid>http://localhost:1313/blog/2021/20210728-gplv2installationinformation/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;&lt;i&gt;안녕하세요.&lt;/p&gt;
@@ -458,7 +458,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 310px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png&#34; width=&#34;300&#34; height=&#34;149&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png&#34; width=&#34;300&#34; height=&#34;149&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -483,7 +483,7 @@ solely because modification has been made.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg&#34; width=&#34;600&#34; height=&#34;493&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg&#34; width=&#34;600&#34; height=&#34;493&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -504,7 +504,7 @@ solely because modification has been made.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 460px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;392&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;392&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -526,7 +526,7 @@ https://blog.codinghorror.com/tivoization-and-the-gpl/
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 310px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg&#34; width=&#34;300&#34; height=&#34;333&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg&#34; width=&#34;300&#34; height=&#34;333&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -551,7 +551,7 @@ https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 460px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;338&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg&#34; width=&#34;450&#34; height=&#34;338&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -625,7 +625,7 @@ compilation and installation of the executable.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;422&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;422&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -660,7 +660,7 @@ Installation Information.”
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;591&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg&#34; width=&#34;600&#34; height=&#34;591&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -870,15 +870,15 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
     
     <item>
       <title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/</link>
+      <link>http://localhost:1313/blog/2021/20210504-dockerfiles/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/</guid>
+      <guid>http://localhost:1313/blog/2021/20210504-dockerfiles/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요!&lt;/p&gt;
@@ -927,7 +927,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;304&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;304&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -946,7 +946,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;441&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png&#34; width=&#34;768&#34; height=&#34;441&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -965,7 +965,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 778px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg&#34; width=&#34;768&#34; height=&#34;576&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg&#34; width=&#34;768&#34; height=&#34;576&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1155,15 +1155,15 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
     
     <item>
       <title>Blog: OSPO란?</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/</link>
+      <link>http://localhost:1313/blog/2021/20210418-ospo-definition/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/</guid>
+      <guid>http://localhost:1313/blog/2021/20210418-ospo-definition/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>]]>
         
         
 
@@ -1187,7 +1187,7 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 328px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://seunghyunhwang-lab.github.io/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png&#34; width=&#34;318&#34; height=&#34;159&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png&#34; width=&#34;318&#34; height=&#34;159&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -1327,15 +1327,15 @@ Software Interactions (a.k.a linking), Available at:  &lt;a href=&#34;https://ww
     
     <item>
       <title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/</link>
+      <link>http://localhost:1313/blog/2021/20210328-elasticlicense/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/</guid>
+      <guid>http://localhost:1313/blog/2021/20210328-elasticlicense/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>]]>
         
         &lt;blockquote&gt;
 &lt;p&gt;안녕하세요.&lt;/p&gt;
@@ -1496,15 +1496,15 @@ It describes a software model where software:
     
     <item>
       <title>Blog: The 2nd Page of H8l</title>
-      <link>https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/</link>
+      <link>http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/</guid>
+      <guid>http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://seunghyunhwang-lab.github.io/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>]]>
+        <![CDATA[<img src="http://localhost:1313/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>]]>
         
         &lt;h1 id=&#34;the-2nd-page-of-hwangsaeul-project&#34;&gt;The 2nd page of Hwangsaeul project&lt;/h1&gt;
 &lt;p&gt;It&amp;rsquo;s been almost a year and half since Jakub posted the &lt;a href=&#34;https://www.collabora.com/news-and-blog/news-and-events/low-latency-streaming-of-security-feeds-with-srt-and-gstreamer.html&#34;&gt;installation document&lt;/a&gt; of Hwangsaeul (a.k.a H8L) project. The project members are still rush to develop the project for the various use cases. Although the H8L project is originally designed to support the massive deployment of video surveillance cameras which enable SRT transmission, we found that there is much more potential when we switch the domain to UAV(Unmanned Areial Viehicle) and UGV(Unmanned Ground Vehicle). Therefore, we had to change the overall shape of H8L to optimize for the new targets.&lt;/p&gt;
