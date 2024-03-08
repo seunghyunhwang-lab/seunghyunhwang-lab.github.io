@@ -333,46 +333,180 @@ limitations under the License.
 }(jQuery));
 
 ;
-/*
-Copyright 2018 Google LLC
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
+// Adapted from code by Matt Walters https://www.mattwalters.net/posts/hugo-and-lunr/
 
 (function($) {
-
     'use strict';
 
-    var Search = {
-        init: function() {
-            $(document).ready(function() {
-               $(document).on('keypress', '.td-search-input', function(e) {
-                    if (e.keyCode !== 13) {
-                        return
-                    }
+    $(document).ready(function() {
+        const $searchInput = $('.td-search-input');
 
-                    var query = $(this).val();
-                    var searchPage = "http://localhost:1313/search/?q=" + query;
-                    document.location = searchPage;
+        //
+        // Options for popover
+        //
 
-                    return false;
+        $searchInput.data('html', true);
+        $searchInput.data('placement', 'bottom');
+
+        //
+        // Register handler
+        //
+
+        $searchInput.on('change', event => {
+            render($(event.target));
+
+            // Hide keyboard on mobile browser
+            $searchInput.blur();
+        });
+
+        // Prevent reloading page by enter key on sidebar search.
+        $searchInput.closest('form').on('submit', () => {
+            return false;
+        });
+
+        //
+        // Lunr
+        //
+
+        let idx = null; // Lunr index
+        const resultDetails = new Map(); // Will hold the data for the search results (titles and summaries)
+
+        // Set up for an Ajax call to request the JSON data file that is created by Hugo's build process
+        $.ajax($searchInput.data('offline-search-index-json-src')).then(
+            data => {
+                idx = lunr(function() {
+                    this.ref('ref');
+                    this.field('title', { boost: 2 });
+                    this.field('body');
+
+                    data.forEach(doc => {
+                        this.add(doc);
+
+                        resultDetails.set(doc.ref, {
+                            title: doc.title,
+                            excerpt: doc.excerpt
+                        });
+                    });
                 });
 
+                $searchInput.trigger('change');
+            }
+        );
+
+        const render = $targetSearchInput => {
+            // Dispose the previous result
+            $targetSearchInput.popover('dispose');
+
+            //
+            // Search
+            //
+
+            if (idx === null) {
+                return;
+            }
+
+            const searchQuery = $targetSearchInput.val();
+            if (searchQuery === '') {
+                return;
+            }
+
+            const results = idx
+                .query(q => {
+                    const tokens = lunr.tokenizer(searchQuery.toLowerCase());
+                    tokens.forEach(token => {
+                        const queryString = token.toString();
+                        q.term(queryString, {
+                            boost: 100
+                        });
+                        q.term(queryString, {
+                            wildcard:
+                                lunr.Query.wildcard.LEADING |
+                                lunr.Query.wildcard.TRAILING,
+                            boost: 10
+                        });
+                        q.term(queryString, {
+                            editDistance: 2
+                        });
+                    });
+                })
+                .slice(0, 10);
+
+            //
+            // Make result html
+            //
+
+            const $html = $('<div>');
+
+            $html.append(
+                $('<div>')
+                    .css({
+                        display: 'flex',
+                        justifyContent: 'space-between',
+                        marginBottom: '1em'
+                    })
+                    .append(
+                        $('<span>')
+                            .text('Search results')
+                            .css({ fontWeight: 'bold' })
+                    )
+                    .append(
+                        $('<i>')
+                            .addClass('fas fa-times search-result-close-button')
+                            .css({
+                                cursor: 'pointer'
+                            })
+                    )
+            );
+
+            const $searchResultBody = $('<div>').css({
+                maxHeight: `calc(100vh - ${$targetSearchInput.offset().top +
+                    180}px)`,
+                overflowY: 'auto'
             });
-        },
-    };
+            $html.append($searchResultBody);
 
-    Search.init();
+            if (results.length === 0) {
+                $searchResultBody.append(
+                    $('<p>').text(`No results found for query "${searchQuery}"`)
+                );
+            } else {
+                results.forEach(r => {
+                    const $cardHeader = $('<div>').addClass('card-header');
+                    const doc = resultDetails.get(r.ref);
+                    const href =
+                        $searchInput.data('offline-search-base-href') +
+                        r.ref.replace(/^\//, '');
 
+                    $cardHeader.append(
+                        $('<a>')
+                            .attr('href', href)
+                            .text(doc.title)
+                    );
 
-}(jQuery));
+                    const $cardBody = $('<div>').addClass('card-body');
+                    $cardBody.append(
+                        $('<p>')
+                            .addClass('card-text text-muted')
+                            .text(doc.excerpt)
+                    );
+
+                    const $card = $('<div>').addClass('card');
+                    $card.append($cardHeader).append($cardBody);
+
+                    $searchResultBody.append($card);
+                });
+            }
+
+            $targetSearchInput.on('shown.bs.popover', () => {
+                $('.search-result-close-button').on('click', () => {
+                    $targetSearchInput.val('');
+                    $targetSearchInput.trigger('change');
+                });
+            });
+
+            $targetSearchInput
+                .data('content', $html[0].outerHTML)
+                .popover('show');
+        };
+    });
+})(jQuery);
