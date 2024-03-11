@@ -12699,7 +12699,7 @@ header {
     transform: translate(0, -50%) rotate(-45deg); }
 
 header.mobile-menu-open .td-navbar {
-  background: #262626;
+  background: #fff;
   border-bottom: 1px solid #3c3c41; }
   header.mobile-menu-open .td-navbar .nav-link {
     color: #fff; }
@@ -12712,7 +12712,7 @@ header.mobile-menu-open .td-navbar {
     padding: 10px;
     cursor: pointer; }
     header.mobile-menu-open .td-navbar .navbar-mobile-button span {
-      background-color: #fff; }
+      background-color: #0046ff; }
 
 .td-navbar-mobile {
   position: fixed;
@@ -12897,7 +12897,7 @@ header.mobile-menu-open .td-navbar-mobile {
   min-width: 260px; }
   @media (min-width: 1200px) {
     .td-toc {
-      display: block; } }
+      display: none; } }
   .td-toc__inner {
     padding: 32px 24px; }
     @supports (position: sticky) {
