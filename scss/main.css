@@ -12616,7 +12616,7 @@ header {
     max-width: 180px; }
     @media (max-width: 991.98px) {
       .td-navbar .navbar-logo svg {
-        width: 100px;
+        width: 120px;
         height: auto; } }
   .td-navbar .nav-item {
     position: relative; }
@@ -12722,7 +12722,7 @@ header.mobile-menu-open .td-navbar {
   opacity: 0;
   transition: all 0.3s linear;
   height: calc(100vh - 80px);
-  background: #262626;
+  background: #fff;
   padding: 30px 25px;
   overflow: auto; }
   @media (max-width: 991.98px) {
@@ -12734,7 +12734,7 @@ header.mobile-menu-open .td-navbar {
   .td-navbar-mobile .navbar-search input {
     color: #fff; }
     .td-navbar-mobile .navbar-search input::placeholder {
-      color: #fff; }
+      color: #0046ff; }
     .td-navbar-mobile .navbar-search input:focus {
       color: #000; }
   .td-navbar-mobile ul {
@@ -12747,7 +12747,7 @@ header.mobile-menu-open .td-navbar {
     margin: 0 0 15px 0; }
   .td-navbar-mobile > ul > li > a {
     font-size: 25px;
-    color: #fff;
+    color: #0046ff;
     transition: all 0.3s linear;
     font-weight: 700; }
     .td-navbar-mobile > ul > li > a:hover {
