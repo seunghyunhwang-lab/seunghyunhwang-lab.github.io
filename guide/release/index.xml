@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shinhan Financial Open Source – </title>
-    <link>http://localhost:1313/guide/release/</link>
+    <link>https://seunghyunhwang-lab.github.io/guide/release/</link>
     <description>Recent content on Shinhan Financial Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     
-	  <atom:link href="http://localhost:1313/guide/release/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://seunghyunhwang-lab.github.io/guide/release/index.xml" rel="self" type="application/rss+xml" />
     
     
       
