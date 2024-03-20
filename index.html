@@ -51,7 +51,7 @@
       "datePublished": "0001-01-01 00:00:00 \u002b0000 UTC",
       "dateModified" : "0001-01-01 00:00:00 \u002b0000 UTC",
       "url" : "https:\/\/seunghyunhwang-lab.github.io\/",
-      "wordCount" : "99",
+      "wordCount" : "118",
       "keywords" : [ "sktelecom" ]
   }
   </script>
@@ -68,8 +68,8 @@
 
 
 
-<link rel="preload" href="/scss/main.min.ecfa7a6f03af791543c29e3927f5216b011b6e1b69be52f05e31b13aa84ddfce.css" as="style">
-<link href="/scss/main.min.ecfa7a6f03af791543c29e3927f5216b011b6e1b69be52f05e31b13aa84ddfce.css" rel="stylesheet" integrity="">
+<link rel="preload" href="/scss/main.min.c03ced4c2e81d6d29269a595126818f7dd60a3a6a5b03b6a9fe43beb5780fbd4.css" as="style">
+<link href="/scss/main.min.c03ced4c2e81d6d29269a595126818f7dd60a3a6a5b03b6a9fe43beb5780fbd4.css" rel="stylesheet" integrity="">
 
 
 <script
@@ -231,7 +231,7 @@
   aria-label="사이트에서 검색…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.b7718042185a6acc9a98d38856e5bc2426b508ab6014756a5f07af35c55fd594df2e031670ad2c5b4d26f12ae310ac415a94bc337f87ac734160c73c2a093421.json"
+  data-offline-search-index-json-src="/offline-search-index.7d0a6c7317605f3dbe2a0d461387b352bd063942adb22b5cdde1549ab5ee1d61a63f937a2b5df7265014c56c24f0af9b97422302146ceb0dd9dc276d38a24f4d.json"
   data-offline-search-base-href="/"
 >
 </div>
@@ -252,7 +252,7 @@
   aria-label="사이트에서 검색…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.b7718042185a6acc9a98d38856e5bc2426b508ab6014756a5f07af35c55fd594df2e031670ad2c5b4d26f12ae310ac415a94bc337f87ac734160c73c2a093421.json"
+  data-offline-search-index-json-src="/offline-search-index.7d0a6c7317605f3dbe2a0d461387b352bd063942adb22b5cdde1549ab5ee1d61a63f937a2b5df7265014c56c24f0af9b97422302146ceb0dd9dc276d38a24f4d.json"
   data-offline-search-base-href="/"
 >
 </div>
@@ -483,13 +483,36 @@
 
 
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scroll Animation</title>
+<style>
+  /* 초기에는 숨깁니다 */
+  .section-head, .section-description {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 2.5s ease, transform 2.5s ease;
+  }
+
+  /* 스크롤에 따라 나타나게 합니다 */
+  .section-head.show, .section-description.show {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 2.5s ease, transform 2.5s ease;
+  }
+</style>
+</head>
+<body>
 <section class="content-area">
   <div class="container">
     <div id="overview">
-      <h2 class="section-head">Open Source Projects</h2>
-      <div class="section-description">
+      <!-- 해당 부분에 class 추가 -->
+      <h2 class="section-head animate">Open Source Projects</h2>
+      <div class="section-description animate">
         <p>
-          신한금융그룹의 오픈소스 관련 프로젝트를 공개합니다.
+          신한금융그룹의 임직원들이 직접 개발에 참여하거나 기여한 오픈소스 관련 프로젝트들을 공개합니다.
         </p>
       </div>
     </div>
@@ -587,6 +610,22 @@
     </div>
   </div>
 </section>
+<script>
+  window.addEventListener('scroll', function() {
+    var elements = document.querySelectorAll('.animate');
+    var screenPosition = window.innerHeight;
+    
+    elements.forEach(function(element) {
+      var position = element.getBoundingClientRect().top;
+      // 화면에 나타나면 클래스 추가
+      if (position < screenPosition) {
+        element.classList.add('show');
+      }
+    });
+  });
+  </script>
+  </body>
+  </html>
 <!--
 <section class="content-area content-area--line-top">
   <div class="container">
@@ -614,7 +653,12 @@
 <section class="content-area content-area--line-top">
   <div class="container">
     <div id="additional-content">
-      <h2 class="section-head">그룹 오픈소스 관리체계</h2>
+      <h2 class="section-head animate">그룹 오픈소스 관리체계</h2>
+      <div class="section-description animate">
+        <p>
+          신한금융그룹은 국제 표준을 준수하는 그룹 오픈소스 관리체계와 임직원들을 위한 가이드를 커뮤니티에 공개합니다.
+        </p>
+      </div>
       <div class="row">
         <div class="col-md-6">
           <div class="card mb-4">
@@ -641,6 +685,7 @@
 
   <style>
     .section-head,
+    .section-description,
     .card-title,
     .card-text {
       text-align: center;
