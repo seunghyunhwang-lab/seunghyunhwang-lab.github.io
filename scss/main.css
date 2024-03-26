@@ -13211,7 +13211,7 @@ header.mobile-menu-open .td-navbar-mobile {
 
 .background-slide {
   position: absolute;
-  border-radius: 80px 80px 80px 80px;
+  border-radius: 50px 50px 50px 50px;
   /* 둥근 가장자리를 원하는 크기로 조정하세요 */
   top: 0;
   right: 0;
