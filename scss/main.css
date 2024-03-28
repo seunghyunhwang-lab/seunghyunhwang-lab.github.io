@@ -13193,6 +13193,10 @@ header.mobile-menu-open .td-navbar-mobile {
     @media (min-width: 768px) {
       .td-cover-block__down-icon a {
         font-size: 1rem; } }
+.td-cover-block__down-icon {
+  position: relative;
+  top: 200px; }
+
 .background-slideshow {
   position: absolute;
   width: 100%;
@@ -13220,7 +13224,7 @@ header.mobile-menu-open .td-navbar-mobile {
   background-size: cover;
   background-position: center;
   opacity: 0;
-  animation: slideShow 30s infinite linear; }
+  animation: slideShow 100s infinite linear; }
 
 @keyframes slideShow {
   0%, 100% {
@@ -13238,16 +13242,16 @@ header.mobile-menu-open .td-navbar-mobile {
   animation-delay: 0s; }
 
 .background-slide:nth-child(2) {
-  animation-delay: 6s; }
+  animation-delay: 20s; }
 
 .background-slide:nth-child(3) {
-  animation-delay: 12s; }
+  animation-delay: 40s; }
 
 .background-slide:nth-child(4) {
-  animation-delay: 18s; }
+  animation-delay: 60s; }
 
 .background-slide:nth-child(5) {
-  animation-delay: 24s; }
+  animation-delay: 80s; }
 
 .td-bg-arrow-wrapper {
   position: relative; }
